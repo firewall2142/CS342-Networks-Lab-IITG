@@ -1,0 +1,10 @@
+www.google1.com	172.16.78.1
+www.google2.com	172.16.78.2
+www.google3.com	172.16.78.3
+www.google4.com	172.16.78.4
+www.google5.com	172.16.78.5
+www.google6.com	172.16.78.6
+www.google7.com	172.16.78.7
+www.google8.com	172.16.78.8
+www.google9.com	172.16.78.9
+www.google0.com	172.16.78.0
